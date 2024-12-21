@@ -1,30 +1,34 @@
-Hive Game
+**Hive Game**
 
 A Python implementation of the Hive board game, built using Pygame.
 
+---
+
 Table of Contents
 
-Introduction
+1. Introduction
 
-Features
+2. Features
 
-Installation
+3. Installation
 
-How to Play
+4. Rules
 
-Converting to Executable
+5. How to Play
 
-Contributing
+6. Converting to Executable
 
-License
+7. Contributing
 
-Contact
+---
 
-Introduction
+**Introduction**
 
 Hive is a highly strategic two-player board game where players compete to surround their opponent’s Queen Bee. This digital version recreates the board game experience using Python and Pygame, enabling players to enjoy Hive interactively on their computer while following the official rules.
 
-Features
+---
+
+**Features**
 
 Interactive GUI for playing the Hive board game.
 
@@ -40,34 +44,39 @@ Unique movement for each piece based on its type.
 
 A turn-based system for two players.
 
-Installation
+---
+
+**Installation**
 
 Follow these steps to set up the project on your local machine:
 
-Prerequisites
+**Prerequisites**
 
 Python 3.8 or higher.
 
 Pygame library installed.
 
-Steps
+**Steps**
 
 Clone this repository:
 
-git clone https://github.com/yourusername/hive-game.git
+```bash git clone https://github.com/yourusername/hive-game.git ```
 cd hive-game
 
 Install the required dependencies:
 
-pip install pygame
+```bash pip install pygame ```
 
 Run the game:
 
-python hive_game.py
+```bash python hive_game.py ```
 
-How to Play
+---
 
-Start the game and choose which player goes first.
+**Rules**
+[Hive Rules](https://www.ultraboardgames.com/hive/game-rules.php)
+
+**Rules Summary**
 
 Players take turns placing or moving their pieces:
 
@@ -81,27 +90,31 @@ Adhere to the unique movement rules for each piece (to be implemented as game pr
 
 Surround your opponent's Queen Bee to win.
 
-Special Rules:
+**Special Rules:**
 
 Pieces cannot be moved if doing so splits the hive into disconnected parts.
 
 All pieces must touch at least one other piece.
 
-Converting to Executable
+---
+
+**Converting to Executable**
 
 To share the game as a standalone executable, use PyInstaller:
 
 Install PyInstaller:
 
-pip install pyinstaller
+```bash pip install pyinstaller ```
 
 Run the following command to generate the executable:
 
-pyinstaller --onefile --icon=icon.ico hive_game.py
+```bash pyinstaller --onefile --icon=icon.ico hive_game.py ```
 
 The executable file will be available in the dist folder.
 
-Contributing
+---
+
+**Contributing**
 
 Contributions are welcome! If you'd like to improve the game, follow these steps:
 
@@ -109,16 +122,18 @@ Fork the repository.
 
 Create a new branch:
 
-git checkout -b feature-name
+```bash git checkout -b feature-name ```
 
 Commit your changes:
 
-git commit -m "Add feature-name"
+```bash git commit -m "Add feature-name" ```
 
 Push to your branch:
 
-git push origin feature-name
+```bash git push origin feature-name ```
 
 Open a Pull Request.
+
+---
 
 Enjoy playing Hive and feel free to contribute to make it even better!
