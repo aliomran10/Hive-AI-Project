@@ -60,16 +60,16 @@ Pygame library installed.
 
 Clone this repository:
 
-```bash git clone https://github.com/yourusername/hive-game.git ```
+``` git clone https://github.com/yourusername/hive-game.git ```
 cd hive-game
 
 Install the required dependencies:
 
-```bash pip install pygame ```
+``` pip install pygame ```
 
 Run the game:
 
-```bash python hive_game.py ```
+``` python hive_game.py ```
 
 ---
 
@@ -104,11 +104,11 @@ To share the game as a standalone executable, use PyInstaller:
 
 Install PyInstaller:
 
-```bash pip install pyinstaller ```
+``` pip install pyinstaller ```
 
 Run the following command to generate the executable:
 
-```bash pyinstaller --onefile --icon=icon.ico hive_game.py ```
+``` pyinstaller --onefile --icon=icon.ico hive_game.py ```
 
 The executable file will be available in the dist folder.
 
@@ -122,15 +122,15 @@ Fork the repository.
 
 Create a new branch:
 
-```bash git checkout -b feature-name ```
+``` git checkout -b feature-name ```
 
 Commit your changes:
 
-```bash git commit -m "Add feature-name" ```
+``` git commit -m "Add feature-name" ```
 
 Push to your branch:
 
-```bash git push origin feature-name ```
+``` git push origin feature-name ```
 
 Open a Pull Request.
 
