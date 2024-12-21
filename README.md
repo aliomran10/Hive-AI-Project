@@ -60,8 +60,8 @@ Pygame library installed.
 
 Clone this repository:
 
-``` git clone https://github.com/yourusername/hive-game.git
-cd hive-game ```
+``` git clone https://github.com/aliomran10/Hive-AI-Project.git ```
+``` cd Hive-AI-Project  ```
 
 Install the required dependencies:
 
@@ -118,21 +118,21 @@ The executable file will be available in the dist folder.
 
 Contributions are welcome! If you'd like to improve the game, follow these steps:
 
-Fork the repository.
+1. Fork the repository.
 
-Create a new branch:
+2. Create a new branch:
 
 ``` git checkout -b feature-name ```
 
-Commit your changes:
+3. Commit your changes:
 
 ``` git commit -m "Add feature-name" ```
 
-Push to your branch:
+4. Push to your branch:
 
 ``` git push origin feature-name ```
 
-Open a Pull Request.
+5. Open a Pull Request.
 
 ---
 
