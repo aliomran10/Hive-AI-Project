@@ -52,8 +52,6 @@ Follow these steps to set up the project on your local machine:
 
 **Prerequisites**
 
-Python 3.8 or higher.
-
 Pygame library installed.
 
 **Steps**
