@@ -12,13 +12,11 @@ Table of Contents
 
 3. Installation
 
-4. Rules
+4. How to Play
 
-5. How to Play
+5. Converting to Executable
 
-6. Converting to Executable
-
-7. Contributing
+6. Contributing
 
 ---
 
@@ -32,7 +30,7 @@ Hive is a highly strategic two-player board game where players compete to surrou
 
 Interactive GUI for playing the Hive board game.
 
-Adheres to official Hive rules:
+Adheres to official Hive rules: [Hive Rules](https://www.ultraboardgames.com/hive/game-rules.php)
 
 Place pieces strategically to surround the opponent's Queen Bee.
 
@@ -71,10 +69,7 @@ Run the game:
 
 ---
 
-**Rules**
-[Hive Rules](https://www.ultraboardgames.com/hive/game-rules.php)
-
-**Rules Summary**
+**How to Play**
 
 Players take turns placing or moving their pieces:
 
