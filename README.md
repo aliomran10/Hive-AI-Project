@@ -60,8 +60,8 @@ Pygame library installed.
 
 Clone this repository:
 
-``` git clone https://github.com/yourusername/hive-game.git ```
-cd hive-game
+``` git clone https://github.com/yourusername/hive-game.git
+cd hive-game ```
 
 Install the required dependencies:
 
